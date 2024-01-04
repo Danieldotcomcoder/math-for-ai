@@ -20,8 +20,3 @@ Feel free to explore the resources in this repository. You can use the code exam
 ## Contributions
 
 Contributions to this repository are welcome. If you have additional resources, code implementations, or explanations to add, please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
